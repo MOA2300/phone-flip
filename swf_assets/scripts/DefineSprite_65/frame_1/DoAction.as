@@ -1,0 +1,2 @@
+nowTime = "";
+nowDate = "";

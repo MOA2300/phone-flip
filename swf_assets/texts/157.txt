@@ -1,0 +1,3 @@
+USB
+--- RECORDSEPARATOR ---
+カメラに接続して遊ぼう
